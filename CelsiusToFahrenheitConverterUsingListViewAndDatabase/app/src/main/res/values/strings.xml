@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celsius - Fahrenheit converter</string>
+    <string name="number_in_celsius">Number in Celsius</string>
+    <string name="celsius">Celsius</string>
+    <string name="number_in_fahrenheit">Number in Fahrenheit</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="action_settings">History</string>
+    <string name="last_20_conversions">Last 10 conversions</string>
+</resources>
